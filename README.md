@@ -7,7 +7,7 @@ simplest wpf expenses app ever - seriously, what are you doing here ?
 ---
 
  ### code here
-  - [Looking for code?](src/Calculator)
+  - [Looking for code?](src/Expenses)
   
 ----
 
